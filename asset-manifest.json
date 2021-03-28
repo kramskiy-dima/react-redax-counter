@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-redax-counter/static/css/main.a2d9768d.chunk.css",
+    "main.js": "/react-redax-counter/static/js/main.5aa46f76.chunk.js",
+    "main.js.map": "/react-redax-counter/static/js/main.5aa46f76.chunk.js.map",
+    "runtime-main.js": "/react-redax-counter/static/js/runtime-main.bed6c58a.js",
+    "runtime-main.js.map": "/react-redax-counter/static/js/runtime-main.bed6c58a.js.map",
+    "static/js/2.8fcd15f5.chunk.js": "/react-redax-counter/static/js/2.8fcd15f5.chunk.js",
+    "static/js/2.8fcd15f5.chunk.js.map": "/react-redax-counter/static/js/2.8fcd15f5.chunk.js.map",
+    "index.html": "/react-redax-counter/index.html",
+    "static/css/main.a2d9768d.chunk.css.map": "/react-redax-counter/static/css/main.a2d9768d.chunk.css.map",
+    "static/js/2.8fcd15f5.chunk.js.LICENSE.txt": "/react-redax-counter/static/js/2.8fcd15f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed6c58a.js",
+    "static/js/2.8fcd15f5.chunk.js",
+    "static/css/main.a2d9768d.chunk.css",
+    "static/js/main.5aa46f76.chunk.js"
+  ]
+}
